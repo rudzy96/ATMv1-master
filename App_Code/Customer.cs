@@ -51,7 +51,7 @@ public class Customer : Person
     //check the customer input pin is valid
     public bool checkPin(string inputPin)
     {
-        bool validPin = false;
+        bool validPin = false;// if pin is not valid
 
         //check the pin for each element in the dictionary of accounts
         foreach (KeyValuePair<string, Account> kval in accounts)

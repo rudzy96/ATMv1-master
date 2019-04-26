@@ -35,7 +35,7 @@ public class Bank
 
         atmId = "CoGB";
         exchangeRate = 1.12m;
-        timesUsed = 0;
+        timesUsed = 0;//there were zero additions
         withdrawals = 0;
         totalBalance = 10000m;
         failedLogins = 0;
