@@ -3,11 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-/// <summary>
-/// City of Glasgow Bank
-/// by Neal Nisbet
-/// Summary description for Customer
-/// </summary>
 public class Customer : Person
 {
     //private global fields
