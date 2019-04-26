@@ -1,0 +1,44 @@
+﻿	
+	body {
+		font: small arial, helvetica, sans-serif;
+        background-image:url(images/bg.jpg);
+        background-size:cover;
+	}
+
+
+img
+{
+	height:175px;
+	width:250px;
+	border:solid 3px black;
+}
+
+#header{
+    width: 800px;
+    height:80px;
+    margin:0 auto;
+    background-image:url(images/cogb.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    padding-bottom:10px;
+}
+
+#content
+{
+    margin:0 auto;
+	height:auto;
+	width:800px;
+	background-color:rgba(185,185,185,0.5);
+}
+
+#login-area{
+    padding:20px 220px
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1.4em;
+    color:#81388f;
+    text-align:center;
+    padding:10px;
+}

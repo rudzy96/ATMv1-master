@@ -1,0 +1,176 @@
+﻿body {
+		font: small arial, helvetica, sans-serif;
+        background-image:url(images/bg.jpg);
+        background-size:cover;
+}
+
+#header{
+    width: 800px;
+    height:80px;
+    margin:0 auto;
+    background-image:url(images/cogb.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    padding-bottom:10px;
+}
+
+#top-nav{
+    margin:0 auto;
+    width:800px;
+    height:22px;
+}
+
+#top-nav ul a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#B9B8B8;
+    text-decoration:none;
+    display:inline-block;
+    background-color:#81388f;
+    padding:3px;
+    margin:2px;
+}
+
+#top-nav ul a:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#81388f;
+    text-decoration:none;
+    display:inline-block;
+    background-color:#B9B8B8;
+}
+
+#manager-nav{
+    margin:0 20px;
+    width:300px;
+    height:80px;
+}
+
+#manager-nav ul a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#B9B8B8;
+    text-decoration:none;
+    display:block;
+    background-color:#81388f;
+    padding:3px;
+    margin:2px;
+}
+
+#manager-nav ul a:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#81388f;
+    text-decoration:none;
+    background-color:#B9B8B8;
+}
+
+#manager-main-nav{
+    margin:0 20px;
+    width:auto;
+}
+
+#manager-main-nav ul a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#B9B8B8;
+    text-decoration:none;
+    display:inline-block;
+    background-color:#81388f;
+    padding:3px;
+    margin:2px;
+}
+
+#manager-main-nav ul a:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#81388f;
+    text-decoration:none;
+    display:inline-block;
+    background-color:#B9B8B8;
+}
+
+#content
+{
+    margin:0 auto;
+	height:auto;
+	width:800px;
+	background-color:rgba(185,185,185,0.5);
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1.4em;
+    color:#81388f;
+    text-align:left;
+    padding:10px;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:#81388f;
+    text-align:left;
+    padding:5px 20px;
+}
+
+#manager-maint-main{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:#81388f;
+    text-align:left;
+    padding:5px;
+    margin-left:40px;
+}
+
+#content ul{
+
+}
+
+#content li{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:#81388f;
+    text-align:left;
+    padding:5px;
+    margin-left:40px;
+    text-decoration:none;
+    list-style:none;
+}
+
+td{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:#81388f;
+    text-align:left;
+    padding:5px 20px;
+}
+
+td a {
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: #B9B8B8;
+   text-decoration: none;
+   display: block;
+   background-color: #81388f;
+   padding: 5px;
+   margin: 2px;
+}
+
+#btn{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:#81388f;
+    margin:0 10px;
+}
+
+#btn a{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#B9B8B8;
+    text-decoration:none;
+    display:block;
+    background-color:#81388f;
+    padding:3px;
+    margin:2px;
+}
+
+#btn a:hover{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#81388f;
+    text-decoration:none;
+    display:inline-block;
+    background-color:#B9B8B8;
+}
