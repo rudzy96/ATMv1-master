@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div id="header">
-    </div>
+    </div>//add in div
     <div id="content">
         <div id="top-nav">
             <ul>
