@@ -6,8 +6,6 @@ using System.Data.SqlClient;
 using System.Data;
 using System.Configuration;
 
-/// <summary>
-/// </summary>
 
 public class BankDataAccess
 {
@@ -45,7 +43,7 @@ public class BankDataAccess
         SqlDataReader myResults;
         DataTable myDataTable = new DataTable();
 
-        //Returns data table if successful
+     
         try
         {
             myConnection.Open();
@@ -65,7 +63,7 @@ public class BankDataAccess
             return myDataTable;
         }
 
-        //Connection is closed
+ 
         finally
         {
             myConnection.Close();
